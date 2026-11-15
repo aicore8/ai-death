@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.3](https://github.com/aifivem/ai-death/compare/v0.4.2...v0.4.3) (2026-11-15)
+
+
+### Miscellaneous Chores
+
+* **web:** ship the Chromium 144 build, without the CEF 103 colour fallbacks, built on the bun runtime ([979b1b2](https://github.com/aifivem/ai-death/commit/979b1b20fddb54632e6dbc548836ee23abcb1129))
+
 ## [0.4.2](https://github.com/aifivem/ai-death/compare/v0.4.1...v0.4.2) (2026-11-02)
 
 
