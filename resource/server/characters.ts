@@ -1,4 +1,4 @@
-import { onCharacter } from "@aifivem/lib/server";
+import { onCharacter } from "@aicore8/lib/server";
 import { DEAD_META } from "common/death";
 import { core } from "./core";
 import { downed } from "./downed";

@@ -7,8 +7,8 @@ import {
   Keybind,
   player,
   showPrompt,
-} from "@aifivem/lib/client";
-import { readFinite } from "@aifivem/lib/shared";
+} from "@aicore8/lib/client";
+import { readFinite } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { EVENTS } from "common/death";
 import { send, texts } from "../nui";

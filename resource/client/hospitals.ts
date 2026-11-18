@@ -1,5 +1,5 @@
-import { Blips, callAction, notify, Points } from "@aifivem/lib/client";
-import { RecordObjects } from "@aifivem/lib/shared";
+import { Blips, callAction, notify, Points } from "@aicore8/lib/client";
+import { RecordObjects } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { EVENTS, readHospital } from "common/death";
 import { settings, world } from "./world";

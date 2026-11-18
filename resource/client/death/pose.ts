@@ -5,8 +5,8 @@ import {
   onStop,
   player,
   requestAnimDict,
-} from "@aifivem/lib/client";
-import { pickRandom, waitFor } from "@aifivem/lib/shared";
+} from "@aicore8/lib/client";
+import { pickRandom, waitFor } from "@aicore8/lib/shared";
 
 const DEAD_DICT = "dead";
 const DEAD_CLIPS = [

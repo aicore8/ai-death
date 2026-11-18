@@ -1,78 +1,78 @@
 # Changelog
 
-## [0.4.3](https://github.com/aifivem/ai-death/compare/v0.4.2...v0.4.3) (2026-11-15)
+## [0.4.3](https://github.com/aicore8/ai-death/compare/v0.4.2...v0.4.3) (2026-11-15)
 
 
 ### Miscellaneous Chores
 
-* **web:** ship the Chromium 144 build, without the CEF 103 colour fallbacks, built on the bun runtime ([979b1b2](https://github.com/aifivem/ai-death/commit/979b1b20fddb54632e6dbc548836ee23abcb1129))
+* **web:** ship the Chromium 144 build, without the CEF 103 colour fallbacks, built on the bun runtime ([979b1b2](https://github.com/aicore8/ai-death/commit/979b1b20fddb54632e6dbc548836ee23abcb1129))
 
-## [0.4.2](https://github.com/aifivem/ai-death/compare/v0.4.1...v0.4.2) (2026-11-02)
+## [0.4.2](https://github.com/aicore8/ai-death/compare/v0.4.1...v0.4.2) (2026-11-02)
 
 
 ### Documentation
 
-* install from the release zip ([96ee8c2](https://github.com/aifivem/ai-death/commit/96ee8c2dfd6105b2acebaf7bc94b795b4d124d7f))
+* install from the release zip ([96ee8c2](https://github.com/aicore8/ai-death/commit/96ee8c2dfd6105b2acebaf7bc94b795b4d124d7f))
 
 
 ### Miscellaneous Chores
 
-* build files are no longer in git, the release zip carries them ([e6ee2eb](https://github.com/aifivem/ai-death/commit/e6ee2ebd18b6e724e7e7ee391430c35be469f6b8))
+* build files are no longer in git, the release zip carries them ([e6ee2eb](https://github.com/aicore8/ai-death/commit/e6ee2ebd18b6e724e7e7ee391430c35be469f6b8))
 
-## [0.4.1](https://github.com/aifivem/ai-death/compare/v0.4.0...v0.4.1) (2026-11-02)
+## [0.4.1](https://github.com/aicore8/ai-death/compare/v0.4.0...v0.4.1) (2026-11-02)
 
 
 ### Bug Fixes
 
-* **build:** keep the web build in dist/ so release zips have the NUI ([375c9f4](https://github.com/aifivem/ai-death/commit/375c9f491be93fc3ba22279bab6a5c306ded51d3))
+* **build:** keep the web build in dist/ so release zips have the NUI ([375c9f4](https://github.com/aicore8/ai-death/commit/375c9f491be93fc3ba22279bab6a5c306ded51d3))
 
 
 ### Code Refactoring
 
-* import the shared packages from [@aifivem](https://github.com/aifivem) ([6cd122d](https://github.com/aifivem/ai-death/commit/6cd122db9fca7fec330d3d6f9103bfd8f4aaacb1))
+* import the shared packages from [@aicore8](https://github.com/aicore8) ([6cd122d](https://github.com/aicore8/ai-death/commit/6cd122db9fca7fec330d3d6f9103bfd8f4aaacb1))
 
-## [0.4.0](https://github.com/aifivem/ai-death/compare/v0.3.0...v0.4.0) (2026-11-01)
+## [0.4.0](https://github.com/aicore8/ai-death/compare/v0.3.0...v0.4.0) (2026-11-01)
 
 
 ### New Features
 
-* **death:** log the cause, killer and distance of a death ([9f186ed](https://github.com/aifivem/ai-death/commit/9f186ed5fef814ec0b98defc8d6c4b45bba53603))
+* **death:** log the cause, killer and distance of a death ([9f186ed](https://github.com/aicore8/ai-death/commit/9f186ed5fef814ec0b98defc8d6c4b45bba53603))
 
 
 ### Code Refactoring
 
-* feature folders, side entries that only import, panel schema per tab ([3bb974f](https://github.com/aifivem/ai-death/commit/3bb974faa075b384af3a10cfeb14afc0d8177cd7))
+* feature folders, side entries that only import, panel schema per tab ([3bb974f](https://github.com/aicore8/ai-death/commit/3bb974faa075b384af3a10cfeb14afc0d8177cd7))
 
-## [0.3.0](https://github.com/aifivem/ai-death/compare/v0.2.0...v0.3.0) (2026-10-31)
+## [0.3.0](https://github.com/aicore8/ai-death/compare/v0.2.0...v0.3.0) (2026-10-31)
 
 
 ### New Features
 
-* death log names the cause (weapon hash) ([28d96c6](https://github.com/aifivem/ai-death/commit/28d96c64e31a7157154917f6966cf141a15c34c6))
+* death log names the cause (weapon hash) ([28d96c6](https://github.com/aicore8/ai-death/commit/28d96c64e31a7157154917f6966cf141a15c34c6))
 
 
 ### Miscellaneous Chores
 
-* rebuild with the current lib ([9a24771](https://github.com/aifivem/ai-death/commit/9a24771ef99314e7a17ac554f9a12f2af885b6e2))
+* rebuild with the current lib ([9a24771](https://github.com/aicore8/ai-death/commit/9a24771ef99314e7a17ac554f9a12f2af885b6e2))
 
-## [0.2.0](https://github.com/aifivem/ai-death/compare/v0.1.0...v0.2.0) (2026-10-31)
+## [0.2.0](https://github.com/aicore8/ai-death/compare/v0.1.0...v0.2.0) (2026-10-31)
 
 
 ### New Features
 
-* free medics from the EMS layer ([9f46ba0](https://github.com/aifivem/ai-death/commit/9f46ba01ac9cc1e9306409e59fd96bda67f6225b))
-* revive fee as a bill and a call-a-doctor key on the down screen with free medics ([822124b](https://github.com/aifivem/ai-death/commit/822124b20c48108e4f2556b78a6ac79d908e7aa4))
+* free medics from the EMS layer ([9f46ba0](https://github.com/aicore8/ai-death/commit/9f46ba01ac9cc1e9306409e59fd96bda67f6225b))
+* revive fee as a bill and a call-a-doctor key on the down screen with free medics ([822124b](https://github.com/aicore8/ai-death/commit/822124b20c48108e4f2556b78a6ac79d908e7aa4))
 
 
 ### Bug Fixes
 
-* fixed NUI layer (notifications on top, police alerts over the HUD) ([f59e545](https://github.com/aifivem/ai-death/commit/f59e545f796e4231dc034eb54106fd5af282ec5d))
+* fixed NUI layer (notifications on top, police alerts over the HUD) ([f59e545](https://github.com/aicore8/ai-death/commit/f59e545f796e4231dc034eb54106fd5af282ec5d))
 
 
 ### Miscellaneous Chores
 
-* rebuild with the current lib ([4354b89](https://github.com/aifivem/ai-death/commit/4354b895529231c993740443eb9ec7fde97ed20b))
-* rebuild with the current lib ([156059e](https://github.com/aifivem/ai-death/commit/156059e59d92de7c88643002201bbb32163062ff))
-* rebuild with the current lib ([c47f751](https://github.com/aifivem/ai-death/commit/c47f751750ee4fbc1bac2eb2cb8cce3578559325))
-* rebuild with the current lib ([3f43e00](https://github.com/aifivem/ai-death/commit/3f43e004bedc66d4fe34451b617dd30656057945))
-* regenerate settings schema (revive fee, doctor call wait) ([edfce28](https://github.com/aifivem/ai-death/commit/edfce28db78a76b5fdd2f4b875fca86e55267b77))
+* rebuild with the current lib ([4354b89](https://github.com/aicore8/ai-death/commit/4354b895529231c993740443eb9ec7fde97ed20b))
+* rebuild with the current lib ([156059e](https://github.com/aicore8/ai-death/commit/156059e59d92de7c88643002201bbb32163062ff))
+* rebuild with the current lib ([c47f751](https://github.com/aicore8/ai-death/commit/c47f751750ee4fbc1bac2eb2cb8cce3578559325))
+* rebuild with the current lib ([3f43e00](https://github.com/aicore8/ai-death/commit/3f43e004bedc66d4fe34451b617dd30656057945))
+* regenerate settings schema (revive fee, doctor call wait) ([edfce28](https://github.com/aicore8/ai-death/commit/edfce28db78a76b5fdd2f4b875fca86e55267b77))

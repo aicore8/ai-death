@@ -1,5 +1,5 @@
-import { aiLog, coordsOf, online } from "@aifivem/lib/server";
-import { CORE, type DeathInfo } from "@aifivem/shared";
+import { aiLog, coordsOf, online } from "@aicore8/lib/server";
+import { CORE, type DeathInfo } from "@aicore8/shared";
 import { downed } from "./downed";
 
 function wentDown(

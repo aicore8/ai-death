@@ -1,3 +1,3 @@
-import { resourceExport } from "@aifivem/lib/server";
+import { resourceExport } from "@aicore8/lib/server";
 
 export const core = resourceExport("ai-core");

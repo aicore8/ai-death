@@ -7,7 +7,7 @@ import {
   str,
   vec4,
   type Vec4,
-} from "@aifivem/lib/shared";
+} from "@aicore8/lib/shared";
 
 /** ai-death's contracts and panel content. No natives. */
 

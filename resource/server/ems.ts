@@ -1,4 +1,4 @@
-import { ems, online } from "@aifivem/lib/server";
+import { ems, online } from "@aicore8/lib/server";
 import { settings } from "./panel";
 
 /** Medics free to take a call: an EMS script's own count (busy ones left out), else ai-core's duty counts. */

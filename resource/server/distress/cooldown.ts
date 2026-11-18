@@ -1,4 +1,4 @@
-import { KeyedCooldowns, online } from "@aifivem/lib/server";
+import { KeyedCooldowns, online } from "@aicore8/lib/server";
 
 /** Doctor calls by character id (a reconnect keeps the cooldown). */
 export const calls = new KeyedCooldowns<number>();

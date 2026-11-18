@@ -1,4 +1,4 @@
-import { onCache } from "@aifivem/lib/client";
+import { onCache } from "@aicore8/lib/client";
 import { settings, world } from "./world";
 
 // GTA refills health slowly by itself; the panel decides. The multiplier resets with every ped change (clothing scripts).
