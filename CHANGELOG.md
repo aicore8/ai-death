@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.4](https://github.com/aicore8/ai-death/compare/v0.4.3...v0.4.4) (2026-11-18)
+
+
+### Miscellaneous Chores
+
+* rename aifivem to aicore8 (aicore8.com, github.com/aicore8, [@aicore8](https://github.com/aicore8) npm scope) ([62cb062](https://github.com/aicore8/ai-death/commit/62cb062cee3372d7c6051aeec0613362e8663ee8))
+
 ## [0.4.3](https://github.com/aicore8/ai-death/compare/v0.4.2...v0.4.3) (2026-11-15)
 
 
